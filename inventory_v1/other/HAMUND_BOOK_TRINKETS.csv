@@ -1,0 +1,146 @@
+ID	Name	roll d8	Item	Value	Weight	ValueNumber	WeightNumber
+aarakocra	Aarakocra	1	1d4 days' worth of rations (dry meat)	3 sp	1 lb.	0.3	1
+aarakocra	Aarakocra	2	1 drinking gourd	6 cp	4 lb.	0.06	4
+aarakocra	Aarakocra	3	1d8 small leather pouches	2 sp	1 lb.	0.2	1
+aarakocra	Aarakocra	4	1d10 feet of linen wrappings	5 cp	1 lb.	0.05	1
+aarakocra	Aarakocra	5	1 bag of fine sand	2 cp	2 lb.	0.02	2
+aarakocra	Aarakocra	6	1 linen robe	3 sp	5 lb.	0.3	5
+aarakocra	Aarakocra	7	1d4 sticks of sweet smelling incense	4 sp	1 lb.	0.4	1
+aarakocra	Aarakocra	8	1 roll of parchment and 1 ink bottle	8 sp	4 lb.	0.8	4
+bugbear	Bugbear	1	1d4 days' worth of rations (mouldy produce)	8cp	2 lb.	0.08	2
+bugbear	Bugbear	2	1 scratched drinking flask	1 sp	3 lb.	0.1	3
+bugbear	Bugbear	3	1 flea-ridden blanket	3 sp	3 lb.	0.3	3
+bugbear	Bugbear	4	1 lock of another bugbear's hair	1 cp	-	0.01	-
+bugbear	Bugbear	5	1 bag of teeth (various species)	2 cp	1 lb.	0.02	1
+bugbear	Bugbear	6	1 badly carved wooden idol of Hruggek	1 sp	3 lb.	0.1	3
+bugbear	Bugbear	7	1 worn whetsone	1 cp	-	0.01	-
+bugbear	Bugbear	8	10d10 silver pieces	Value	Varies	Value	Varies
+bullywug	Bullywug	1	"1d4 days' worth of rations (swamp plants and critters)
+                                    "	5 sp	2 lb.	0.5	2
+bullywug	Bullywug	2	1 pouch of grey mud (good for pores)	1 sp	2 lb.	0.1	2
+bullywug	Bullywug	3	2d4 shrunken critter carcasses on strings	3 cp	2 lb.	0.03	2
+bullywug	Bullywug	4	1 tattered tunic	1 sp	2 lb.	0.1	2
+bullywug	Bullywug	5	1 bottle filled with fireflies	1 sp	3 lb.	0.1	3
+bullywug	Bullywug	6	1d8 bundles of mildly intoxicating roots and leaves	1 sp	1 lb.	0.1	1
+bullywug	Bullywug	7	1d4 pouches filled with minor trinkets	2 sp	2 lb.	0.2	2
+bullywug	Bullywug	8	2d100 copper pieces	Varies	Varies	Varies	Varies
+duergar	Duergar	1	1d4 days' worth of rations	5 sp	2 lb.	0.5	2
+duergar	Duergar	2	1 iron flask of strong liquor	1 gp	3 lb.	1	3
+duergar	Duergar	3	1 sheet of rock polishing cloth	2 sp	-	0.2	-
+duergar	Duergar	4	1d4 precious gems	10 gp	2 lb.	10	2
+duergar	Duergar	5	1 pair of manacles	2 gp	6 lb.	2	6
+duergar	Duergar	6	1 shovel or pick	2 gp	5 lb./10 lb.	2	5 /10
+duergar	Duergar	7	1 idol of Ladaguer	3 gp	2 lb.	3	2
+duergar	Duergar	8	8d10 silver pieces	Varies	Varies	Varies	Varies
+drow	Drow	1	1d4 days' worth of rations	5 sp	2 lb.	0.5	2
+drow	Drow	2	1 iron idol of Lolth	5 gp	3 lb.	5	3
+drow	Drow	3	1 roll of parchment with writing materials	3 gp	4 lb.	3	4
+drow	Drow	4	1 set of spider-silk clothes	6 gp	6 lb.	6	6
+drow	Drow	5	2d6 sets of humanoid ears	1 cp	1 lb.	0.01	1
+drow	Drow	6	1 pouch of slightly intoxicating fungi	8 sp	3 lb.	0.8	3
+drow	Drow	7	1 wineskin of fine elven wine	10 gp	5 lb.	10	5
+drow	Drow	8	10d10 gold pieces	Varies	Varies	Varies	Varies
+githyanki	Githyanki	1	1d8 golden rings	2 gp	1 lb.	2	1
+githyanki	Githyanki	2	1 ruby inlaid headband	6 gp	2 lb.	6	2
+githyanki	Githyanki	3	1 wineskin of fine wine	10 gp	5 lb.	10	5
+githyanki	Githyanki	4	2d4 preserved illithid tentacles	2 gp	1 lb.	2	1
+githyanki	Githyanki	5	1 unfinished crafting trinket	1 gp	3 lb.	1	3
+githyanki	Githyanki	6	1d4 bottles of scented oils	1 gp	1 lb.	1	1
+githyanki	Githyanki	7	1 bottle of weapon oil	1 gp	1 lb.	1	1
+githyanki	Githyanki	8	12d10 gold pieces	Varies	Varies	Varies	Varies
+githzerai	Githzerai	1	1d4 days' worth of rations	5 sp	2 lb.	0.5	2
+githzerai	Githzerai	2	1 waterskin	2 sp	5 lb.	0.2	5
+githzerai	Githzerai	3	2d6 sticks of fine incense	1 gp	1 lb.	1	1
+githzerai	Githzerai	4	1 ring of meditation beads	5 gp	4 lb.	5	4
+githzerai	Githzerai	5	1 set of silk clothes	10 gp	5 lb.	10	5
+githzerai	Githzerai	6	1 set of writing utensils and parchment	15 gp	8 lb.	15	8
+githzerai	Githzerai	7	1 brass censer	1 gp	8 lb.	1	8
+githzerai	Githzerai	8	1 book of githzerai teachings	10 gp	5 lb.	10	5
+gnoll	Gnoll	1	1d4 day's worth of rations (mouldy produce)	5 sp	2 lb.	0.5	2
+gnoll	Gnoll	2	1 well chewed stick	1 cp	2 lb.	0.01	2
+gnoll	Gnoll	3	1 set of tattered clothes	5 cp	5 lb.	0.05	5
+gnoll	Gnoll	4	1d6 strings of trophies	8 cp	2 lb.	0.08	2
+gnoll	Gnoll	5	2d8 piercings (bone and metal)	1 sp	1 lb.	0.1	1
+gnoll	Gnoll	6	1 pouch of red pigments	5 sp	2 lb.	0.5	2
+gnoll	Gnoll	7	1 idol of Yeenoghu	3 gp	4 lb.	3	4
+gnoll	Gnoll	8	5d10 silver pieces	Varies	Varies	Varies	Varies
+deep-gnome	Deep Gnome	1	1d4 days' worth of rations	5 sp	2 lb.	0.5	2
+deep-gnome	Deep Gnome	2	1 iron flask of strong liquor	1 gp	3 lb.	1	3
+deep-gnome	Deep Gnome	3	1d6 pouches of pipeweed	7 sp	1 lb.	0.7	1
+deep-gnome	Deep Gnome	4	1d4 precious gems	10 gp	2 lb.	10	2
+deep-gnome	Deep Gnome	5	1 shovel or pick	2 gp	5 lb./10 lb.	2	5 /10
+deep-gnome	Deep Gnome	6	1 stone carved likeness of a family member	8 cp	1 lb.	0.08	1
+deep-gnome	Deep Gnome	7	1 sheet of rock polishing cloth	12 sp	-	1.2	-
+deep-gnome	Deep Gnome	8	5d10 silver pieces	Varies	Varies	Varies	Varies
+goblin	Goblin	1	1d4 days' worth of rations	5 sp	2 lb.	0.5	2
+goblin	Goblin	2	1 wooden idol of Maglubiyet	2 sp	5 lb.	0.2	5
+goblin	Goblin	3	1 rat on a stick	2 cp	2 lb.	0.02	2
+goblin	Goblin	4	1d4 string of animal trophies	8 cp	1 lb.	0.08	1
+goblin	Goblin	5	1d4 shiny trinkets	2 sp	2 lb.	0.2	2
+goblin	Goblin	6	1 iron flask of cheap liquor	5 sp	2 lb.	0.5	2
+goblin	Goblin	7	1 tattered children's toy	2 sp	2 lb.	0.2	2
+goblin	Goblin	8	3d100 copper pieces	Varies	Varies	Varies	Varies
+hobgoblin	Hobgoblin	1	1d4 days' worth of rations	5 sp	2 lb.	0.5	2
+hobgoblin	Hobgoblin	2	1 whetstone	1 cp	-	0.01	-
+hobgoblin	Hobgoblin	3	1 vial of weapon oil	3 sp	1 lb.	0.3	1
+hobgoblin	Hobgoblin	4	1 legion crest	8 sp	1 lb.	0.8	1
+hobgoblin	Hobgoblin	5	1 shovel	2 gp	5 lb.	2	5
+hobgoblin	Hobgoblin	6	1 tinderbox	5 sp	1 lb.	0.5	1
+hobgoblin	Hobgoblin	7	1 mess kit	2 sp	1 lb.	0.2	1
+hobgoblin	Hobgoblin	8	10d10 gold pieces	Varies	Varies	Varies	Varies
+kenku	Kenku	1	1d4 days' worth of rations	5 sp	2 lb.	0.5	2
+kenku	Kenku	2	1 set of tattered clothes	3 sp	3 lb.	0.3	3
+kenku	Kenku	3	1 set of writing utensils and parchment	3 gp	4 lb.	3	4
+kenku	Kenku	4	3d6 bright bird feathers	1 sp	1 lb.	0.1	1
+kenku	Kenku	5	2d6 shiny trinkets	2 sp	1 lb.	0.2	1
+kenku	Kenku	6	1 bag of ball bearings	1 gp	2 lb.	1	2
+kenku	Kenku	7	1 jar of paint	2 gp	3 lb.	2	3
+kenku	Kenku	8	10d10 silver pieces	Varies	Varies	Varies	Varies
+kobold	Kobold	1	1 days' worth of rations (mouldy produce)	2 sp	2 lb.	0.2	2
+kobold	Kobold	2	1 mottled dragon scale	7 sp	3 lb.	0.7	3
+kobold	Kobold	3	1d4 shiny trinkets	2 sp	1 lb.	0.2	1
+kobold	Kobold	4	1 idol of Kurtulmak	3 gp	5 lb.	3	5
+kobold	Kobold	5	25 feet of frayed rope	3 sp	5 lb.	0.3	5
+kobold	Kobold	6	1 flask of oil	1 sp	1 lb.	0.1	1
+kobold	Kobold	7	2d6 horns of a deceased relative	5 cp	2 lb.	0.05	2
+kobold	Kobold	8	1 tattered loin cloth	1 cp	1 lb.	0.01	1
+kuo-toa	Kuo-toa	1	1d4 days' worth of rations (dried fish and seaweed)	5 sp	2 lb.	0.5	2
+kuo-toa	Kuo-toa	2	2d4 pieces of homemade jewelry	1 sp	1 lb.	0.1	1
+kuo-toa	Kuo-toa	3	1 driftwood idol	3 sp	2 lb.	0.3	2
+kuo-toa	Kuo-toa	4	1d4 pieces of salvaged jewelry	2 gp	2 lb.	2	2
+kuo-toa	Kuo-toa	5	1 pouch of live fish bait	1 sp	2 lb.	0.1	2
+kuo-toa	Kuo-toa	6	1 tattered tunic	1 sp	3 lb.	0.1	3
+kuo-toa	Kuo-toa	7	1 waterlogged ship flag	1 gp	5 lb.	1	5
+kuo-toa	Kuo-toa	8	1 jar of luminescent pigments	2 gp	5 lb.	2	5
+lizardfolk	Lizardfolk	1	1d4 days' worth of rations	5 sp	2 lb.	0.5	2
+lizardfolk	Lizardfolk	2	1 idol of Semuanya/Sess'inek	5 gp	2 lb.	5	2
+lizardfolk	Lizardfolk	3	1 hunting trap	5 gp	25 lb.	5	25
+lizardfolk	Lizardfolk	4	1d8 pieces of bone and shell jewelry	7 sp	2 lb.	0.7	2
+lizardfolk	Lizardfolk	5	1 pouch of swamp mud (good for skin)	6 sp	4 lb.	0.6	4
+lizardfolk	Lizardfolk	6	1d6 chewing roots	2 sp	1 lb.	0.2	1
+lizardfolk	Lizardfolk	7	1 pouch of live fish bait	1 sp	2 lb.	0.1	2
+lizardfolk	Lizardfolk	8	6d10 silver pieces	Varies	Varies	Varies	Varies
+merfolk	Merfolk	1	1d4 days' worth of rations	5 sp	2 lb.	0.5	2
+merfolk	Merfolk	2	2d6 pieces of bright coral	5 sp	2 lb.	0.5	2
+merfolk	Merfolk	3	1 jar of slightly intoxicating sea snail slime	8 sp	2 lb.	0.8	2
+merfolk	Merfolk	4	2d4 pieces of shell jewelry	4 sp	2 lb.	0.4	2
+merfolk	Merfolk	5	1d6 pieces of salvaged jewelry	2 gp	2 lb.	2	2
+merfolk	Merfolk	6	1 waterlogged ship flag	1 gp	5 lb.	1	5
+merfolk	Merfolk	7	1 jar of luminescent algae	1 gp	4 lb.	1	4
+merfolk	Merfolk	8	7d10 silver pieces	Varies	Varies	Varies	Varies
+orc	Orc	1	1d4 days' worth of rations	5 sp	2 lb.	0.5	2
+orc	Orc	2	1 wineskin of cheap ale	4 sp	5 lb.	0.4	5
+orc	Orc	3	1 idol of Gruumsh	5 gp	2 lb.	5	2
+orc	Orc	4	1 pouch of non-matching eyes	5 cp	3 lb.	0.05	3
+orc	Orc	5	1d4 strings of dried elf ears	1 sp	2 lb.	0.1	2
+orc	Orc	6	1 pouch of war paint pigments	3 sp	2 lb.	0.3	2
+orc	Orc	7	1d6 of salvaged jewelry	2 gp	2 lb.	2	2
+orc	Orc	8	3d10 gold pieces	Varies	Varies	Varies	Varies
+sahuagin	Sahuagin	1	1d4 days' worth of rations (dried fish and seaweed)	5 sp	2 lb.	0.5	2
+sahuagin	Sahuagin	2	2d4 pieces of homemade jewelry	1 sp	1 lb.	0.1	1
+sahuagin	Sahuagin	3	1 idol of Sekolah	5 gp	2 lb.	5	2
+sahuagin	Sahuagin	4	1d4 pieces of salvaged jewelry	2 gp	2 lb.	2	2
+sahuagin	Sahuagin	5	1 pouch of live fish bait	1 sp	2 lb.	0.1	2
+sahuagin	Sahuagin	6	1 string of shark teeth	1 gp	3 lb.	1	3
+sahuagin	Sahuagin	7	1 waterlogged ship flag	1 gp	5 lb.	1	5
+sahuagin	Sahuagin	8	1 jar of coagulated blood	8 cp	3 lb.	0.08	3
